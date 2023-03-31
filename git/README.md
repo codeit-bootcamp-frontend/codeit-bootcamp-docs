@@ -1,1 +1,5 @@
-git에 대한 안내사항
+---
+
+## [코드잇 부트캠프 Commit Convention](./git/commit/convention.md)
+
+---
