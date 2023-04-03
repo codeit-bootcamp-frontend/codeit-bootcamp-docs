@@ -8,3 +8,7 @@
 
 
 ---
+
+## [코드잇 부트캠프 Github와 Slack 연동 방법](./slack/slack.md)
+
+---
